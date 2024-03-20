@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @takebri
-- 👀 I’m interested in data analysis and data science. 
-- 🌱 I’m currently learning RDBMS with PostgreSQL and OOP in Python. 
+- 👀 I’m interested in analytics engineering and cloud computing. 
+- 🌱 I’m currently learning how to build efficient pipelines using Python/SQL and cloud architecture using Bigquery/Redshift. 
 - 💞️ I’m looking to collaborate on data analytics.
 - 📫 How to reach me takebri@gmail.com
 
