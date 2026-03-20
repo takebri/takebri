@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @takebri
-- 👀 I’m interested in analytics engineering and cloud computing. 
-- 🌱 I’m currently learning how to build efficient pipelines using Python/SQL and cloud architecture using Bigquery/Redshift. 
-- 💞️ I’m looking to collaborate on data analytics.
-- 📫 How to reach me takebri@gmail.com
+### Hello, It's Brian 👋
+
+Data analyst specializing in SQL, Python, and business intelligence. I turn data into actionable insights.
+
+- 👀 I'm interested in healthcare analytics, analytics engineering, and performance optimization
+- 🌱 I'm currently learning performance optimization strategies for dbt data models
+- 📫 How to reach me: www.linkedin.com/in/briantakeda
 
 <!---
 takebri/takebri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
