@@ -3,6 +3,7 @@
 Data analyst specializing in SQL, Python, and business intelligence. I turn data into actionable insights.
 
 - 👀 I'm interested in healthcare analytics, analytics engineering, and performance optimization
+- 📊 I'm currently analyzing patient financial burden in healthcare using SQL and Tableau
 - 🌱 I'm currently learning performance optimization strategies for dbt data models
 - 📫 How to reach me: www.linkedin.com/in/briantakeda
 
